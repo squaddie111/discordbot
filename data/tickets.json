@@ -1,0 +1,46 @@
+{
+  "channels": {
+    "1512925344590725230": {
+      "guildId": "1295169214147199037",
+      "ownerId": "1507642443359719501",
+      "type": "satin",
+      "status": "open",
+      "baseName": "satin-alim-sibieg-y1er"
+    },
+    "1513243243079536690": {
+      "guildId": "1295169214147199037",
+      "ownerId": "1236384133446373376",
+      "type": "teknik",
+      "status": "open",
+      "baseName": "teknik-destek-esperanzaunaprv"
+    },
+    "1513257136598159591": {
+      "guildId": "1295169214147199037",
+      "ownerId": "1484258088734429275",
+      "type": "teknik",
+      "status": "open",
+      "baseName": "teknik-destek-vantaxddd"
+    },
+    "1513260913111597257": {
+      "guildId": "1295169214147199037",
+      "ownerId": "714823781440552971",
+      "type": "satin",
+      "status": "open",
+      "baseName": "satin-alim-eroxxinc"
+    },
+    "1513263050025730138": {
+      "guildId": "1295169214147199037",
+      "ownerId": "876949816515624980",
+      "type": "diger",
+      "status": "open",
+      "baseName": "ekip-basvuru-kugonbaba"
+    },
+    "1513270499504033966": {
+      "guildId": "1295169214147199037",
+      "ownerId": "1017689882417700885",
+      "type": "teknik",
+      "status": "open",
+      "baseName": "teknik-destek-lexissexx"
+    }
+  }
+}
